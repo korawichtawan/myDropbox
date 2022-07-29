@@ -1,8 +1,8 @@
 # myDropbox
 In this project, I built a Dropbox-like app called myDropbox with these features.<br />
-* upload<br />
-* download<br />
-* view<br />
+* upload file to aws S3<br />
+* download file from aws S3<br />
+* view file in aws S3<br />
 # Architecture
 This project use three-tier architecture.<br />
 1.Presentation tier(mydropbox.py) -> python program run in terminal.<br />
